@@ -8,8 +8,11 @@ A website that offers search engine optimization services.
 * CSS
 
 ## Website
+https://nantoszewska.github.io/urban-octo-telegram/
 
-![final-work-screenshot](https://user-images.githubusercontent.com/94205621/143993287-96eb11d1-b1af-4960-873a-02d99c9a0632.jpg)
+![screencap](https://raw.githubusercontent.com/nantoszewska/urban-octo-telegram/main/Develop/assets/images/final-work-screenshot.jpg)
+
+
 
 
 ## Contribution
