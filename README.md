@@ -10,7 +10,8 @@ A website that offers search engine optimization services.
 ## Website
 https://nantoszewska.github.io/urban-octo-telegram/
 
-![screencap](https://raw.githubusercontent.com/nantoszewska/urban-octo-telegram/main/Develop/assets/images/final-work-screenshot.jpg)
+![Screen Shot 2021-12-02 at 8 29 48 PM](https://user-images.githubusercontent.com/94205621/144530953-568f89e7-9efe-4234-a0a9-3d6502bc96b7.png)
+
 
 
 
